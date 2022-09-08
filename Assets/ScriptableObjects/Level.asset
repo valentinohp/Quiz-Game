@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e36b0183d18162458a50d586ccccde0, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  LevelStruct:
+  - LevelID: A-1
+    PackID: A
+    Question: Warna dari Mawar?
+    Hint: rose
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 0
+  - LevelID: A-2
+    PackID: A
+    Question: Warna dari Langit?
+    Hint: sky
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
+  - LevelID: A-3
+    PackID: A
+    Question: Warna dari Daun?
+    Hint: leaf
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 2
+  - LevelID: A-4
+    PackID: A
+    Question: Warna dari Matahari?
+    Hint: sun
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 3
+  - LevelID: A-5
+    PackID: A
+    Question: Warna dari Laut?
+    Hint: ocean
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
+  - LevelID: B-1
+    PackID: B
+    Question: Warna dari Langit?
+    Hint: sky
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
+  - LevelID: B-2
+    PackID: B
+    Question: Warna dari Daun?
+    Hint: leaf
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 2
+  - LevelID: B-3
+    PackID: B
+    Question: Warna dari Matahari?
+    Hint: sun
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 3
+  - LevelID: B-4
+    PackID: B
+    Question: Warna dari Laut?
+    Hint: ocean
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
+  - LevelID: B-5
+    PackID: B
+    Question: Warna dari Mawar?
+    Hint: rose
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 0
+  - LevelID: C-1
+    PackID: C
+    Question: Warna dari Daun?
+    Hint: leaf
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 2
+  - LevelID: C-2
+    PackID: C
+    Question: Warna dari Matahari?
+    Hint: sun
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 3
+  - LevelID: C-3
+    PackID: C
+    Question: Warna dari Laut?
+    Hint: ocean
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
+  - LevelID: C-4
+    PackID: C
+    Question: Warna dari Mawar?
+    Hint: rose
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 0
+  - LevelID: C-5
+    PackID: C
+    Question: Warna dari Langit?
+    Hint: sky
+    Choice:
+    - Merah
+    - Biru
+    - Hijau
+    - Kuning
+    Answer: 1
